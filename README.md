@@ -3,6 +3,12 @@
 ![](https://custom-icon-badges.demolab.com/badge/Quezon_City-Philippines-purple?style=for-the-badge&logo=location&logoColor=white) [![](https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=person)](https://www.linkedin.com/in/josh-edilrey-de-guzman/) [![](https://custom-icon-badges.demolab.com/badge/-Gmail-ea4335?style=for-the-badge&logo=mail&logoColor=white)](joshedilreydeguzman@gmail.com)
 
 
+
+<div style="display: flex; gap: 20px;">
+  <div>
+
+
+
 ## Languages
 [![My Languages](https://skillicons.dev/icons?i=ts,js,html,css,sass,py,c,java)](https://skillicons.dev)
 
@@ -14,7 +20,11 @@
 [![Frameworks and Libraries](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,pytorch,sklearn)](https://skillicons.dev)
 
 
-## Databases
+
+  </div>
+  <div>
+
+ ## Databases
 [![Databases](https://skillicons.dev/icons?i=postgres,supabase,mssql)](https://skillicons.dev)
 
 ## DevOps
@@ -22,6 +32,13 @@
 
 ## Others
 [![Others](https://skillicons.dev/icons?i=blender,figma,notion,obsidian)](https://skillicons.dev)
+
+  </div>
+</div>
+
+
+
+
 
 # Stats
 ![GitHub Stats](https://streak-stats.demolab.com?user=JoshEdilrey&theme=default&hide_border=true)
