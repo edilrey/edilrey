@@ -10,15 +10,14 @@
 
 
 ## Languages
-[![My Languages](https://skillicons.dev/icons?i=ts,js,html,css,sass,py,c,java)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=ts,js,html,css,py,c,java)](https://skillicons.dev)
 
 ## Tools
 [![Tools](https://skillicons.dev/icons?i=vscode,git,vite,npm,eclipse,docker,arduino)](https://skillicons.dev)
 
 ## Frameworks and Libraries
 
-[![Frameworks and Libraries](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,pytorch,sklearn)](https://skillicons.dev)
-
+[![Frameworks and Libraries](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,sass,fastapi,pytorch,sklearn)](https://skillicons.dev)
 
 
   </div>
@@ -35,8 +34,6 @@
 
   </div>
 </div>
-
-
 
 
 
