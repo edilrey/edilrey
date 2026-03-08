@@ -38,7 +38,7 @@
 
 
 # Stats
-![GitHub Stats](https://streak-stats.demolab.com?user=JoshEdilrey&theme=default&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=edilrey&theme=default&hide_border=true)
 
 <!---
 JEdilrey/JEdilrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
